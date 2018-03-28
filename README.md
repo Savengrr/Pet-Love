@@ -13,4 +13,6 @@ In our web site you will be able to:
   - Create events so that a large group of pet owners and hang out 
   
 There will also be limited times where the site will implement certain concepts from class teachings, this file will mention them below when they apply.
-  -Using concepts of deferreds and promises within java in (Update with file).
+  
+  
+ -Using concepts of deferreds and promises within java in (Update with file).
